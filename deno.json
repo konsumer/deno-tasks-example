@@ -1,0 +1,7 @@
+{
+	"tasks": {
+		"a": "deno a.js",
+		"b": "deno b.js",
+		"p": "deno task a & deno task b"
+	}
+}
